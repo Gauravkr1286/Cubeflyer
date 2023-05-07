@@ -25,4 +25,4 @@ This project is intended as a sandbox for you to learn about GitHub and contribu
 
 ## Aknowledgements
 
-All the code in this repo was written by [Sam Wronski](https://github.com/runewake2).
+All the code in this repo was written by [Gaurav Kumar](https://github.com/Gauravkr1286).
